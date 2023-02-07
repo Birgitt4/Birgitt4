@@ -1,4 +1,4 @@
-### Hi there 👋
+### Moikka 👋
 
 <!--
 **Birgitt4/Birgitt4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Täältä löytyy muutamia projekteja Helsingin yliopiston tietojenkäsittelytieteenlaitoksen kursseilta.
+
+Olen oikeasti matemaatikko, joka eksyi sattumalta sivuaineilemaan käpistelyä. Matematiikan kandi valmistui keväällä 2022 ja syksyllä 2022 aloitin opinnot matematiikan, fysiikan ja kemian opettajan maisteriohjelmassa Helsingin yliopistolla syksyllä 2022. Opetettavina aineina tietenkin matematiikka ja tietotekniikka.
+
+Tarkoitus jatkaa opeopintojen jälkeen koodaushommien opiskelua :)
